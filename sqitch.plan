@@ -3,3 +3,5 @@
 %uri=https://github.com/colophonemes/ontrack
 
 postgraphile_init 2018-05-19T02:37:25Z Sam Deere <dev@colophonemes.com> # Initial schema for ontrack project
+u_extensions [postgraphile_init] 2018-05-19T03:01:10Z Sam Deere <dev@colophonemes.com> # Adds some useful extensions
+t_users [postgraphile_init u_extensions] 2018-05-19T02:55:59Z Sam Deere <dev@colophonemes.com> # Adds a table for DB users
