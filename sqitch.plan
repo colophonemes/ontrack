@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=ontrack
+%uri=https://github.com/colophonemes/ontrack
+
+postgraphile_init 2018-05-19T02:37:25Z Sam Deere <dev@colophonemes.com> # Initial schema for ontrack project
